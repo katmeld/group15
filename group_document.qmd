@@ -8,11 +8,20 @@ editor: visual
 
 ## Kristine
 
+Helluuu
+
+xbkibfyuk
+
+```{r}
+2+2
+```
+
+```{r}
+4*22
+```
+
 ## Enrico
 
 ## Pernille
 
 ## Katrine
-
-
-
