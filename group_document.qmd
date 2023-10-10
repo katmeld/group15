@@ -16,32 +16,36 @@ Hallo
 ### New feature
 
 more code
+
 ```{r}
 5*8
 ```
-
-
 
 ## Kristine
 
 Helluuu
 
 ### New Features
+
 ```{r}
 7*6+3
 ```
+
 Bulebule
 
 ```{r}
 2+2
 ```
 
-
 ```{r}
 4*22
 ```
 
 ## Enrico
+
+```{r}
+# hello 😏
+```
 
 ## Pernille
 
