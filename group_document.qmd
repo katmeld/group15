@@ -6,6 +6,13 @@ editor: visual
 
 ## Margrethe
 
+Hallo
+
+```{r}
+2+2
+
+```
+
 ## Kristine
 
 ## Enrico
@@ -13,6 +20,3 @@ editor: visual
 ## Pernille
 
 ## Katrine
-
-
-
