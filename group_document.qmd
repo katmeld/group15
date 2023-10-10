@@ -18,15 +18,16 @@ Hallo
 Helluuu
 
 ### New Features
+
 ```{r}
 7*6+3
 ```
+
 Bulebule
 
 ```{r}
 2+2
 ```
-
 
 ```{r}
 4*22
@@ -35,6 +36,8 @@ Bulebule
 ## Enrico
 
 ## Pernille
+
+Hello
 
 ## Katrine
 
