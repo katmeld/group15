@@ -20,3 +20,11 @@ Hallo
 ## Pernille
 
 ## Katrine
+<<<<<<< HEAD
+=======
+
+kk
+
+
+
+>>>>>>> ae098132710912f72dea4496c25c2984018be504
