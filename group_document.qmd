@@ -53,6 +53,12 @@ Hello
 
 Hello
 
+## New feature
+
+```{r}
+10+15
+```
+
 ## Katrine
 
 kk
