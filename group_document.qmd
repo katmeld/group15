@@ -6,15 +6,30 @@ editor: visual
 
 ## Margrethe
 
+Hallo
+
+```{r}
+2+2
+
+```
+
 ## Kristine
 
 Helluuu
 
 xbkibfyuk
 
+<<<<<<< HEAD
 ```{r}
 2+2
 ```
+=======
+## Katrine
+<<<<<<< HEAD
+=======
+
+kk
+>>>>>>> 54e81042b36481e17e4e89f3a4f72659f6189b9f
 
 ```{r}
 4*22
@@ -22,6 +37,10 @@ xbkibfyuk
 
 ## Enrico
 
+<<<<<<< HEAD
 ## Pernille
 
 ## Katrine
+=======
+>>>>>>> ae098132710912f72dea4496c25c2984018be504
+>>>>>>> 54e81042b36481e17e4e89f3a4f72659f6189b9f
