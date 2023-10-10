@@ -47,11 +47,25 @@ Bulebule
 # hello 😏
 ```
 
+## New feature
+
+some text
+
+```{r}
+# few code chunks
+```
+
 ## Pernille
 
 Hello
 
 Hello
+
+## New feature
+
+```{r}
+10+15
+```
 
 ## Katrine
 
