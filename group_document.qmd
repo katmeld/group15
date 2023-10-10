@@ -43,6 +43,10 @@ Bulebule
 
 ## Enrico
 
+```{r}
+# hello 😏
+```
+
 ## Pernille
 
 Hello
