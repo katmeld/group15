@@ -16,5 +16,10 @@ editor: visual
 
 kk
 
+```{r}
+4*5
+```
+
+
 
 
